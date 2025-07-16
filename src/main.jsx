@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import QuizlyLanding from './components/QuizlyLanding.jsx'
-import Quiz from './components/quiz.jsx'
+import Quiz from './components/Quiz.jsx'
 import AboutPage from './components/About.jsx'
 import AiChat from './components/AiChat.jsx'
 
